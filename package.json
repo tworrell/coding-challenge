@@ -1,0 +1,11 @@
+{
+    "name": "accelerate-challenege",
+    "description": "HIMMS Node.js project",
+    "authors": "Tara Worrell",
+    "version": "1.0.0",
+    "main": "server.js",
+    "script": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {}
+}
